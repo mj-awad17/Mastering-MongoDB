@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "66f9cf5d759c4f77c92ce970"
+  },
+  "Name": "Ali",
+  "Father name": "Ibrahim",
+  "Age": 16,
+  "Height": 5.5,
+  "Enrollment Date": "30-09-2024; 00:00:00",
+  "Courses": [
+    "English",
+    "Computer",
+    "Mathematic",
+    "Chemistry"
+  ],
+  "Grades": [
+    "B",
+    "A-",
+    "A+",
+    "B+"
+  ],
+  "Address": {
+    "$number": 123,
+    "$string": "House no.123",
+    "$boolean": "False"
+  },
+  "Phone": {
+    "$numberDecimal": "92312399999"
+  }
+},
+{
+  "_id": {
+    "$oid": "66f9d4052a50e5ab5cf15121"
+  },
+  "Name": "Ahmad",
+  "Father": "Bilal.",
+  "Enrollement_Date": "Mon Sep 30 2024 03:26:13 GMT+0500 (Pakistan Standard Time)",
+  "Height": 5.5,
+  "Courses": [
+    "English",
+    "Chemistry",
+    "Calculas"
+  ],
+  "Grades": [
+    "A",
+    "B",
+    "C"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f9d4052a50e5ab5cf15122"
+  },
+  "Name": "Akash",
+  "Father": "Nazir.",
+  "Enrollement_Date": "Mon Sep 30 2024 03:26:13 GMT+0500 (Pakistan Standard Time)",
+  "Height": 5.7,
+  "Courses": [
+    "Computer",
+    "Chemistry",
+    "Calculas"
+  ],
+  "Grades": [
+    "A+",
+    "C",
+    "A"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66f9d4052a50e5ab5cf15123"
+  },
+  "Name": "Jamil",
+  "Father": "Anwar.",
+  "Enrollement_Date": "Mon Sep 30 2024 03:26:13 GMT+0500 (Pakistan Standard Time)",
+  "Height": 5.6,
+  "Courses": [
+    "Physics",
+    "Chemistry",
+    "Biology"
+  ],
+  "Grades": [
+    "A-",
+    "B",
+    "A+"
+  ]
+}]
